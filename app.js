@@ -3,7 +3,7 @@ var path = require('path');
 
 var app = express();
 
-var port = process.env.PORT || 1337;
+var port = 1337;
 
 var characters = [
     'Holt',
@@ -27,4 +27,5 @@ app.get('/characters', function(req, res) {
 });
 
 app.listen(port);
-console.log('App is listening on port ' + port);
+console.log('App is listening on port ' + port + '...');
+console.log('"ctrl + C" to stop');
