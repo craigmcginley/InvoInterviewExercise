@@ -1,1 +1,12 @@
 # The initial set up for Invo interview exercise
+
+## Goals:
+  - Our page needs a title of 'Eagle Ordinary'
+  - Prevent the header from overlapping the rest of the content
+  - Center the header title
+  - Make the characters stand side by side
+  - Move the legend to the right side of the screen
+  - When hovering over character names in the legend, the characters should animate. Can you fix the JavaScript?
+  - Can you refactor the JavaScript?
+  - The images display pretty ugly right now. They flash when loading and jump between sizes. How can we improve that?
+  - Can you refactor this all to use the API for character names?
