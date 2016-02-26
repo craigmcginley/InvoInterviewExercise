@@ -1,9 +1,11 @@
 # Initial set up for Invo interview exercise
-## To run:
+
+### To run:
   - Using node: `npm install && node app.js` (requires [node.js](https://nodejs.org/en/))
   - Using python: `cd client && python -m SimpleHTTPServer 1337`
   - Visit [localhost:1337](http://localhost:1337)
-## Goals:
+
+### Goals:
   - Our page needs a title of 'Eagle Ordinary'
   - Prevent the header from overlapping the rest of the content
   - Center the header title
